@@ -1,7 +1,7 @@
 # Short video creation tool with subtitles for podcasts
 
 ## Description:
-This tool allows you to almost automatically create short videos of one-picture subtitled podcasts using Google Colab.
+This tool allows you to almost automatically create short videos of one-picture subtitled podcasts using [Google Colab](https://colab.research.google.com/github/arkB/podcast_short_subtitles/blob/main/podcast_short_subtitles.ipynb).
 
 ## Example:
 cf. [arkbfm Podcast Ep.89.5](https://www.arkbfm.com/episode/89_5-1)
