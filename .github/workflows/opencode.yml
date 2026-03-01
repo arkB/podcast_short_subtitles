@@ -25,4 +25,4 @@ jobs:
         uses: anomalyco/opencode/github@latest
         with:
           model: opencode-go/kimi-k2.5
-          api_key: ${{ secrets.OPENCODE_API_KEY }}
+          use_github_token: "true"
